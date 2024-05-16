@@ -10,8 +10,8 @@
 
 ## Installation
 
-* `git clone github.com/awesomedev08/Chat-React-Firebase.git`
-* `cd react-firebase-chat`
+* `git clone github.com/awesomedev77/React-Firebase-Chat.git`
+* `cd React-Firebase-Chat`
 * `npm install`
 * `npm start`
 * visit http://localhost:3000/
